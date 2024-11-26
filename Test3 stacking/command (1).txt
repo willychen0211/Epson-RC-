@@ -1,0 +1,26 @@
+> go Tray_Block +Z(200)
+> on 8
+> off 8
+> go Infeed_Token+z(200)
+> 
+> on 8
+> off 8
+> go Align_Block+z(200)
+> off 8
+> go Tray_Block +(10)
+!!錯誤: 3205, 未指定點。
+> go Infeed_Block
+> go Infeed_Block
+> 
+> go Infeed_Token
+> go Infeed_Block
+> go Infeed_Block
+> go Infeed_Token
+> go Infeed_Token
+> go Infeed_Block
+> go Infeed_Block
+> go Align_Block
+> go Infeed_Token
+
+> go Align_Block
+> 
