@@ -31,8 +31,8 @@ Contains the program for Task 2: Stacking.
 ### **Customized/**
 Contains the program for Task 3: Customized.
 
-### **AVG/**
-Contains the AGV tracking and obstacle avoidance program using NVIDIA technology.
+### **Jetbot/**
+Contains the AGV tracking code.
 
 ### **Simulation/**
 Contains simulation-related resources for Task 0.
