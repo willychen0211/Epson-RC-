@@ -23,13 +23,13 @@ This repository contains programs and resources for the EPSON Robot coursework. 
 The repository is organized as follows:
 
 ### **PickPlace/**
-Contains the program for Task 1: Pick and Place.
+Contains the program for Task 2: Pick and Place.
 
 ### **Stacking/**
-Contains the program for Task 2: Stacking.
+Contains the program for Task 3: Stacking.
 
 ### **Customized/**
-Contains the program for Task 3: Customized.
+Contains the program for Task 4: Customized.
 
 ### **Jetbot/**
 Contains the AGV tracking code.
