@@ -55,6 +55,9 @@ Contains three task's code.
 [![影片名稱](https://img.youtube.com/vi/mEGIMhRw19A/0.jpg)](https://www.youtube.com/watch?v=mEGIMhRw19A)
 ## Task 4 Simulation video 
 [![影片名稱](https://img.youtube.com/vi/yJGIB07e6zY/0.jpg)](https://www.youtube.com/watch?v=yJGIB07e6zY)
+---
+## Extra point
+![夾爪設計](images/my_photo.jpg)
 
 
 ## How to Contribute
