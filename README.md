@@ -37,7 +37,6 @@ Contains the AGV tracking code.
 ### **Simulation/**
 Contains simulation-related resources for Task2,3,4.
 
-
 ### **Code/**
 Contains three task's code.
 
@@ -49,6 +48,14 @@ Contains three task's code.
 - **Mechanical (ME)**
 
 ---
+
+## Task 2 Simulation video 
+[![影片名稱](https://img.youtube.com/vi/CBiGqTRURvQ/0.jpg)](https://www.youtube.com/watch?v=CBiGqTRURvQ)
+## Task 4 Simulation video 
+[![影片名稱](https://img.youtube.com/vi/mEGIMhRw19A/0.jpg)](https://www.youtube.com/watch?v=mEGIMhRw19A)
+## Task 4 Simulation video 
+[![影片名稱](https://img.youtube.com/vi/yJGIB07e6zY/0.jpg)](https://www.youtube.com/watch?v=yJGIB07e6zY)
+
 
 ## How to Contribute
 1. Clone the repository:
