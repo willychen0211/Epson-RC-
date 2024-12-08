@@ -37,11 +37,6 @@ Contains the AGV tracking code.
 ### **Simulation/**
 Contains simulation-related resources for Task2,3,4.
 
-## 影片展示
-<video controls width="600">
-  <source src="videos/your_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 ### **Code/**
 Contains three task's code.
