@@ -3,19 +3,19 @@
 This repository contains programs and resources for the EPSON Robot coursework. The project is divided into multiple tasks with specific responsibilities and contributions outlined below.
 
 ## Tasks and Weightings
-- **Task 0: Simulation** - 10%
-- **Task 1: Pick and Place** - 20%
-- **Task 2: Stacking** - 20%
-- **Task 3: Customized** - 30%
+- **Task 1: Simulation** - 10%
+- **Task 2: Pick and Place** - 20%
+- **Task 3: Stacking** - 20%
+- **Task 4: Customized** - 30%
 
 ---
 
 ## Contributions
 | Team Member  | Responsibility                                                                                   |
 |--------------|--------------------------------------------------------------------------------------------------|
-| **陳威誠**   | Task 2: Stacking, AGV programming, AMV Robot arm operation, GitHub management                   |
-| **黃亮晨**   | Task 1: Pick and Place, AGV programming, AMV Robot arm operation                                 |
-| **侯譯棋**   | Task 3: Customized, AGV programming, AMV Robot arm operation, Simulation                         |
+| **陳威誠**   | Task 3: Stacking, AGV programming, AMV Robot arm operation, GitHub management                   |
+| **黃亮晨**   | Task 2: Pick and Place, AGV programming, AMV Robot arm operation                                 |
+| **侯譯棋**   | Task 4: Customized, AGV programming, AMV Robot arm operation, Task 0: Simulation                         |
 
 ---
 
