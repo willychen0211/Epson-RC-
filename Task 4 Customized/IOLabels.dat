@@ -1,0 +1,44 @@
+ENVT0100,LM:2024/12/07 15:57:40:506,DS:0000000717,CS:54636,MA:80-32-53-F2-0C-92,EI:           
+sRCNGVersion="5.4.7"
+InputBitLabels {
+	nNumberOfLabels=1
+	Label1 {
+		nBit=1
+		sLabel="start"
+		sDescription=""
+	}
+}
+InputByteLabels {
+	nNumberOfLabels=0
+}
+InputWordLabels {
+	nNumberOfLabels=0
+}
+OutputBitLabels {
+	nNumberOfLabels=2
+	Label1 {
+		nBit=10
+		sLabel="push"
+		sDescription="把在tray邊緣的block推入tray中"
+	}
+	Label2 {
+		nBit=11
+		sLabel="Gripper"
+		sDescription=""
+	}
+}
+OutputByteLabels {
+	nNumberOfLabels=0
+}
+OutputWordLabels {
+	nNumberOfLabels=0
+}
+MemoryBitLabels {
+	nNumberOfLabels=0
+}
+MemoryByteLabels {
+	nNumberOfLabels=0
+}
+MemoryWordLabels {
+	nNumberOfLabels=0
+}
