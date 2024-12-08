@@ -57,10 +57,6 @@ Contains three task's code.
 [![影片名稱](https://img.youtube.com/vi/yJGIB07e6zY/0.jpg)](https://www.youtube.com/watch?v=yJGIB07e6zY)
 ---
 ## Extra point
-![夾爪設計](images/my_photo.jpg)
+![夾爪設計](extra%20points/S__104382471.jpg)
 
 
-## How to Contribute
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/EPSON_Robot_Project.git
