@@ -7,7 +7,7 @@ This repository contains programs and resources for the EPSON Robot coursework. 
 - **Task 2: Pick and Place** - 20%
 - **Task 3: Stacking** - 20%
 - **Task 4: Customized** - 30%
-
+- **Task 5: Jetbot** - 10%
 ---
 
 ## Contributions
@@ -41,14 +41,6 @@ Contains simulation-related resources for Task2,3,4.
 Contains three task's code.
 
 ---
-
-## Assignments Category
-- **Robot Programming (RO)**
-- **Electrical (EE)**
-- **Mechanical (ME)**
-
----
-
 ## Task 2 Simulation video 
 [![影片名稱](https://img.youtube.com/vi/CBiGqTRURvQ/0.jpg)](https://www.youtube.com/watch?v=CBiGqTRURvQ)
 ## Task 4 Simulation video 
